@@ -1,6 +1,8 @@
-|  READ THIS FIRST!!  |
-| :---------: |
-| _**This repository isn't compatible with the current Mailjet API (v3) and, as a consequence, is considered deprecated and no support will be provided for it.**_ |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                          READ THIS FIRST!!                                                                 |
++============================================================================================================================================================+
+| This repository isn't compatible with the current Mailjet API (v3) and, as a consequence, is considered deprecated and no support will be provided for it. |
++------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [API v1] Mailjet Python API Wrapper
 ========================
